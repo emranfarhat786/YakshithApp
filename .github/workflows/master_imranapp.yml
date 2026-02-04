@@ -53,4 +53,4 @@ jobs:
           app-name: 'ImranApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C0DB395EDEF4B809BA4328675385FAD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A03DA86A6B6B4577A0FA8E89AD97930D }}
